@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/fcfe3726-2827-47d6-aa42-245cb5a6d35b"/>
+<img width=100% bottom=50px src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/4a322ce3-65b6-44cf-85dc-65154b785713"/>
 <br/>
 <br/>
 
@@ -100,5 +100,5 @@
 </div>
 
 <br>
-<img width=100% bottom=50px src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/735c530f-bb48-489c-a526-06effcd0eaed"/>
+<img width=100% bottom=50px src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/7dca0a40-02b3-4f83-ae5e-4fb4c67b673f"/>
 
