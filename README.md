@@ -11,7 +11,7 @@
 
 <div align=center>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristovaoMata&theme=whatsapp-dark2&locale=pt_BR&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristovaoMata&theme=whatsapp-dark2&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
@@ -43,21 +43,21 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+<img align="left" height="84" width="84" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/99933219-49b2-4f36-a13c-494f97c53b86">
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+<img align="left" height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/5960ee23-d3cd-43c4-a514-379f2a62f107">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+<img align="left"  height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/ce718683-bbf2-4927-97b7-79fda6cfaf1c">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/b79652af-35bc-49af-9586-850e6cfe6b43">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+<img align="left"  height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/5b21cca1-eab5-4fe6-9add-56fa90c23b22">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+<img align="left"  height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/0e648b0b-0b3f-4c02-980e-56a333338dcb">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+<img align="left"  height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/a746a7cd-55dc-4e37-bd82-010f835b257d">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+<img align="left"  height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/bb2f2ef6-5803-41c5-8983-b73068b0f611">
 
 </div>
 
