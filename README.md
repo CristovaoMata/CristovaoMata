@@ -16,9 +16,21 @@
 </div>
 
 <div align="center"> 
+
+<a href="https://web.facebook.com/cristovaoafonso.poligax" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/75221cae-8241-455a-8a9c-6eeb4b3f6e05">
+</a>
   
 <a href="https://instagram.com/cristovaomata2024" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<img align="center" height="84" width="84" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/98420473-3ed4-44eb-9409-8a4caa6ecaf9">
+</a>
+
+<a href="https://www.linkedin.com/in/cristóvão-mata-b112a8274" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/cfb533c1-f4af-496b-ba86-e273d45c0360">
+</a>
+
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/500fc0e7-d436-45c7-b8b9-19a58e1443e2">
 </a>
 
 </div>
