@@ -32,7 +32,7 @@
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/500fc0e7-d436-45c7-b8b9-19a58e1443e2">
 </a>
-
+ 
 </div>
 
 <div align="center" >
