@@ -43,6 +43,8 @@
 
 ### Main skills:
 <div align="left"> 
+<img align="left" height="84" width="84" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/e4651215-2fd4-4744-ae79-f24ce853fed5">
+  
 <img align="left" height="84" width="84" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/99933219-49b2-4f36-a13c-494f97c53b86">
 
 <img align="left" height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/5960ee23-d3cd-43c4-a514-379f2a62f107">
@@ -59,6 +61,8 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/bb2f2ef6-5803-41c5-8983-b73068b0f611">
 
+<img align="left"  height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/97f044f6-5d71-43be-96b7-835f2ef0f454">
+
 </div>
 
 <br>
@@ -74,15 +78,9 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/4fe1e692-e464-4c82-bfc2-62bb06433ece">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+<img align="left"  height="80" width="80" src="https://github.com/CristovaoMata/CristovaoMata/assets/165388921/bb2f2ef6-5803-41c5-8983-b73068b0f611">
 
 </div>
 
