@@ -4,7 +4,7 @@
 
 <div align=center >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=44F73F&center=true&vCenter=true&repeat=true&random=falso&width=1200&height=100&lines=Ol%C3%A1+%2C+Seja+Bem-Vindo+ao+meu+Perfil;Eu+sou+Crist%C3%B3v%C3%A3o+Mata;Estudante++da+12%C2%AA+classe;no+Curso+T%C3%A9cnico+de+Inform%C3%A1tica;Desenvolvedor+.NET;Residente+em+Angola-Luanda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=44F73F&center=true&vCenter=true&repeat=true&random=falso&width=1200&height=100&lines=Ol%C3%A1+%2C+Seja+Bem-Vindo+ao+meu+Perfil;Eu+sou+Crist%C3%B3v%C3%A3o+Mata;Finalista++da+13%C2%AA+classe;no+Curso+T%C3%A9cnico+de+Inform%C3%A1tica;Desenvolvedor+.NET;Residente+em+Angola-Luanda)](https://git.io/typing-svg)
 
 </div>
 <br/>
